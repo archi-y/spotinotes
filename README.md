@@ -1,4 +1,4 @@
-A new way to show what you're listening to on spotify in instagram notes
+Show what you're listening to on spotify in instagram notes
 
 ![size](https://shields.io/github/repo-size/archi-y/spotinotes)
 ![license](https://shields.io/github/license/archi-y/spotinotes)
@@ -8,7 +8,7 @@ A new way to show what you're listening to on spotify in instagram notes
 ![stars](https://img.shields.io/github/stars/archi-y/archi-y/spotinotes)
 
 
-## Table of Contents
+# Table of Contents
 - How to install 
 - Usage
 - It's not working 😭
@@ -59,7 +59,7 @@ Simply start the program with :
 
 	python3 spotinotes.py
 
-### It's not working 😭
+# It's not working 😭
 
 Please make sure that :
 - You have requirements installed with python3 etc
