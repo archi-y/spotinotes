@@ -41,7 +41,7 @@ Create a .env file with this content (Don't forget to replace ClientID and Clien
 	CLIENT_ID="ClientID"
 	CLIENT_SECRET="ClientSecret"
 
-### Installation 
+# Installation 
 
 Install requirements with these 3 commands :
 
@@ -53,7 +53,7 @@ Connect your instagram account by launching login.py
 
 	python3 login.py
 
-### Usage
+# Usage
 
 Simply start the program with :
 
