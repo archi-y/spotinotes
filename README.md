@@ -1,3 +1,5 @@
+![Spotinotes](https://user-images.githubusercontent.com/26002863/236558452-a190735f-91f3-4b4c-a8cb-aeee0310a883.png)
+
 Show what you're listening to on spotify in instagram notes
 
 ![size](https://shields.io/github/repo-size/archi-y/spotinotes)
