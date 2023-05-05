@@ -65,3 +65,6 @@ Please make sure that :
 - You have requirements installed with python3 etc
 - Your instagram account is not disconnected
 
+### Legal
+
+This project is not associated with Spotify or Instagram
