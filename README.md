@@ -9,6 +9,7 @@ Show what you're listening to on spotify in instagram notes
 ![commit](https://img.shields.io/github/last-commit/archi-y/spotinotes)
 ![stars](https://img.shields.io/github/stars/archi-y/archi-y/spotinotes)
 
+# Warning : Still testing this so you might encouter bugs / logouts from instagram + my english is bad so sorry if you see english mistakes in this readme
 
 # Table of Contents
 - How to install 
