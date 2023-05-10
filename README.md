@@ -32,7 +32,7 @@ Press the blue button **"Create App"**
 
 Fill the blanks with the following (feel free to change it but you need to do it in the code as well) : 
 - App Name : **Instagram**
-- App Description : **Instagram for Spotify**
+- App Description : **Spotify for Instagram notes**
 - Website : **None**
 - Redirect URL : http://localhost/
 
