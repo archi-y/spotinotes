@@ -1,3 +1,4 @@
 spotipy
 instagrapi
+pillow
 python-dotenv
