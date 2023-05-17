@@ -34,7 +34,7 @@ Fill the blanks with the following (feel free to change it but you need to do it
 - App Name : **Instagram**
 - App Description : **Spotify for Instagram notes**
 - Website : **None**
-- Redirect URL : http://localhost/
+- Redirect URL : http://localhost
 
 ![Pasted image 20230505204526](https://user-images.githubusercontent.com/26002863/236556437-de49ddd2-b870-4c3d-9630-5749b5c97f29.png)
 You will then land on this page :
